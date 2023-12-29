@@ -1,0 +1,26 @@
+{
+
+    "passwordGame": {
+        "name": "Password Game",
+        "img": "https://neal.fun/link-images/password-game.svg",
+        "provider": "nealFun",
+        "tags": [
+            "password",
+            "game"
+        ],
+        "id": "password-game/"
+    },
+    
+    "internetartifacts": {
+        "name": "Internet Artifacts",
+        "img": "https://neal.fun/link-images/internet-artifacts.svg",
+        "provider": "nealFun",
+        "tags": [
+            "internet",
+            "artifacts"
+        ],
+        "id": "internet-artifacts/"
+    }
+
+    
+}
